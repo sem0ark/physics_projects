@@ -1,3 +1,3 @@
 # Descrition
 
-Requires numpy, matplotlib, fbs
+Requires numpy, matplotlib, fbs, pyqt5
