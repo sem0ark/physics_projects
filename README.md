@@ -1,19 +1,13 @@
 # Description
+There are 4 projects for my Physics teacher.
+Implemented on Python with Matplotlib and numpy.
 
-Some small school projects for physics class.
+- Maxwell's distribution grapher (maxwell)
+- Visualizer of the electronic field for objects with electrostatic charge (Electrofield)
+- Quasistatic process visualizer (isoprocess)
+	- Isothermal
+	- Isohoric
+	- Isobaric
+- Gas Engine Efficiency Estimator (heat machine)
+	- Created UI with pyqt5 (Qt framework for Python)
 
-## electro field
-
-Console programm for visualisation of electro-static field.
-
-## heat machine
-
-App for calculation of efficiency of basic heat machines.
-
-## isoprocess
-
-Console programm for visualisation of different isoprocesses in 3D and 2D.
-
-## macswell distribution
-
-Console programm for visualisation of function graph of maxwell distribution function.
